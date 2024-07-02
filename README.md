@@ -12,7 +12,7 @@ Recent examples of innovation include the use of telemedicine, which gained sign
 
 #
 
-> Alex *"I really want to work on medicine and medical equipment, even though I can't work on real medicine and will only be able to develop conceptual or fictional medicines. My goal is to create innovative medical equipment, though I am aware that, since I'm not a doctor, the medical equipment I design might face rejection."*
+> Alex: *"I really want to work on medicine and medical equipment, even though I can't work on real medicine and will only be able to develop conceptual or fictional medicines. My goal is to create innovative medical equipment, though I am aware that, since I'm not a doctor, the medical equipment I design might face rejection."*
 
 #
 
