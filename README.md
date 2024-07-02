@@ -117,6 +117,8 @@ In summary, these concept medical crutches with air-filled cushion pads represen
 </details>
 
 #
+![Jackass](https://github.com/sourceduty/Medical_Equipment/assets/123030236/1a8da4e6-3933-427b-9724-895fbd8e0a85)
+#
 ### Related Links
 
 [Drugs](https://github.com/sourceduty/Drugs)
