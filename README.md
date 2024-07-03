@@ -160,6 +160,10 @@ Overall, this modern wheelchair design represents a significant step forward in 
 [Biologically Engineered](https://github.com/sourceduty/Biologically_Engineered)
 <br>
 [Biological Simulator](https://github.com/sourceduty/Biological_Simulator)
+<br>
+[Product Design](https://github.com/sourceduty/Product_Design)
+<br>
+[Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 
 #
 
