@@ -147,6 +147,29 @@ Overall, this modern wheelchair design represents a significant step forward in 
 </details>
 
 #
+### Notes
+
+<details><summary>Medical Super Glue</summary>
+<br>
+
+![Medical Super Glue Product](https://github.com/sourceduty/Medical_Equipment/assets/123030236/35a5fb7c-51af-4518-bbba-9955ab3116e5)
+
+Using instant and permanent super glue to seal a small skin wound can have both benefits and drawbacks. Super glue, or cyanoacrylate, is occasionally used in medical settings to close minor wounds, and it can provide an effective barrier against infection while also stopping bleeding. The glue forms a protective layer over the wound, keeping it clean and potentially speeding up the healing process. It is especially useful for small cuts and lacerations, as it can reduce the need for stitches and minimize scarring. The quick-drying nature of super glue means that it can provide immediate closure, which is particularly beneficial in situations where medical help is not readily available.
+
+However, using non-medical grade super glue on skin wounds can pose significant risks. Household super glue is not sterilized and may contain impurities that can cause infections or allergic reactions. The chemicals in super glue can also irritate the skin and surrounding tissues, potentially leading to more severe problems. Moreover, if the wound is deep, large, or located on a highly mobile area of the body, super glue might not be strong enough to keep the wound closed, and traditional medical treatments like stitches or proper medical-grade adhesives would be more appropriate. Improper application of super glue can trap dirt and bacteria inside the wound, leading to infections.
+
+Most super glue available on the market is non-medical grade. These products are typically designed for general household repairs and industrial uses, not for application on human skin. Non-medical grade super glue can contain impurities and additives that make it unsuitable and potentially harmful for medical purposes. The chemical composition of these glues can cause skin irritation, allergic reactions, and even chemical burns if applied to open wounds. Therefore, it is important to distinguish between common super glue and those specifically formulated for medical use.
+
+Medical-grade super glue is indeed a product and is used extensively in healthcare settings. This type of adhesive is sterilized and formulated to be safe for use on the skin. Medical-grade adhesives, often referred to as "tissue adhesives" or "skin adhesives," are used by healthcare professionals to close minor cuts, incisions from surgery, and other small wounds. These products are designed to be biocompatible, minimizing the risk of irritation and infection, and they often contain additional ingredients that promote healing.
+
+Medical-grade super glue can be purchased from medical supply stores, both online and in physical locations. It is also available through pharmacies and directly from manufacturers that specialize in medical supplies. Some well-known brands of medical-grade adhesives include Dermabond, SurgiSeal, and LiquiBand. These products are typically sold to healthcare professionals, but consumers can sometimes purchase them for home use through reputable medical supply websites or pharmacies with a prescription or recommendation from a healthcare provider. It is always advisable to consult a healthcare professional before using any medical-grade adhesive on a wound.
+
+In conclusion, while using super glue to seal a small skin wound might seem convenient and can provide temporary benefits, it is generally not recommended due to the potential for infection and other complications. Medical-grade adhesives specifically designed for wound care are a safer option. It is always advisable to seek professional medical advice for wound treatment to ensure proper care and avoid any adverse effects.
+
+<br>
+</details>
+
+#
 ### Related Links
 
 [Drugs](https://github.com/sourceduty/Drugs)
