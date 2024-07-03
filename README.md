@@ -130,6 +130,21 @@ Despite their current state, these booths serve as a poignant reminder of the ra
 
 <br>
 </details>
+<details><summary>Wheelchair with Front Sphere Wheels</summary>
+<br>
+
+![Modern Wheelchair with Front Sphere Wheels](https://github.com/sourceduty/Medical_Equipment/assets/123030236/67893884-d5b0-4cec-98d6-7a539055fb8b)
+
+The conceptual modern wheelchair depicted in the image presents a sleek, futuristic design that marries functionality with aesthetics. One of the standout features is the use of front sphere wheels, a notable departure from traditional wheelchair design. These spherical wheels likely offer enhanced maneuverability, allowing the user to navigate tight spaces with greater ease. The design suggests a commitment to improving user experience through innovation, making everyday activities more accessible and comfortable for wheelchair users.
+
+The wheelchair's frame is constructed from what appears to be a lightweight, yet robust metal, possibly aluminum or titanium, ensuring durability without sacrificing portability. The minimalist design, characterized by smooth curves and a polished finish, exudes a modern aesthetic that is both stylish and practical. The seat and backrest are padded, providing ergonomic support to enhance comfort during extended use. This thoughtful approach to design indicates a deep understanding of the user’s needs, focusing on both physical support and mobility.
+
+Incorporating advanced technology, the wheelchair's wheels appear to be equipped with electric hubs or motors, indicated by the glowing blue elements at the center of the wheels. This suggests that the wheelchair could be powered, offering additional assistance to the user, especially useful in navigating inclines or long distances. The integration of such technology points towards a future where mobility devices are not only more efficient but also smarter, potentially featuring capabilities like automatic braking, speed control, and connectivity with other smart devices.
+
+Overall, this modern wheelchair design represents a significant step forward in mobility aid technology. It combines cutting-edge materials and innovative design with user-centric features to create a product that enhances the quality of life for its users. By focusing on both functionality and aesthetics, it challenges traditional perceptions of wheelchairs, positioning them as not only medical devices but also as products of thoughtful engineering and design. This conceptual model serves as an exciting glimpse into the future of mobility solutions, promising greater independence and ease of use for individuals with mobility challenges.
+
+<br>
+</details>
 
 #
 ### Related Links
