@@ -115,6 +115,21 @@ In summary, these concept medical crutches with air-filled cushion pads represen
 
 <br>
 </details>
+<details><summary>Abandoned Healthscan Booths</summary>
+<br>
+
+![Healthscan](https://github.com/sourceduty/Medical_Equipment/assets/123030236/33cc2206-c869-4b86-942d-c533b88f8edb)
+
+Outdated and abandoned Healthscan medical booths, once hailed as a revolutionary advancement in public health technology, now stand as silent relics of a bygone era. These booths were originally installed in urban areas to provide convenient, automated health check-ups, aimed at reducing the burden on traditional healthcare facilities and ensuring timely diagnosis for a range of medical conditions. With their ability to measure vital signs, perform basic diagnostic tests, and offer preliminary health advice, Healthscan booths were seen as a significant step towards accessible healthcare for all, particularly in densely populated areas where medical services were often stretched thin.
+
+However, over time, the promise of these booths began to fade. Technological advancements rapidly outpaced the capabilities of the Healthscan systems, rendering them obsolete. The machines, once cutting-edge, could no longer keep up with the increasing demands for more sophisticated diagnostics and integration with modern healthcare systems. Furthermore, issues with maintenance and reliability plagued the booths. Many fell into disrepair as the companies responsible for their upkeep either went out of business or shifted their focus to more profitable ventures. Graffiti, vandalism, and general neglect became common sights on these once-pristine structures, further deterring potential users.
+
+The abandonment of Healthscan booths also reflects a broader societal shift in the approach to healthcare technology. The rise of wearable health devices, telemedicine, and mobile health apps has transformed the landscape, offering more personalized and continuous health monitoring solutions. These modern technologies provide real-time data and seamless communication with healthcare providers, something the static and limited Healthscan booths could never achieve. As a result, the fixed-location model of health booths became redundant in the face of more versatile and user-friendly options that fit into the palm of a hand.
+
+Despite their current state, these booths serve as a poignant reminder of the rapid pace of technological change and the challenges of sustaining public health infrastructure in a constantly evolving digital age. They symbolize the gap between innovation and implementation, where even the most promising solutions can quickly become outdated. As urban artifacts, they prompt reflection on how future health technologies might avoid similar fates and better adapt to the dynamic needs of society. The story of the Healthscan booths underscores the importance of ongoing innovation, adaptability, and maintenance in the quest to make healthcare truly accessible and effective for all.
+
+<br>
+</details>
 
 #
 ### Related Links
