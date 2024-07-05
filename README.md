@@ -184,6 +184,10 @@ Medical-grade super glue can be purchased from medical supply stores, both onlin
 
 In conclusion, while using super glue to seal a small skin wound might seem convenient and can provide temporary benefits, it is generally not recommended due to the potential for infection and other complications. Medical-grade adhesives specifically designed for wound care are a safer option. It is always advisable to seek professional medical advice for wound treatment to ensure proper care and avoid any adverse effects.
 
+#
+
+> Alex: "*Super glue is rarely used for any kind of cut.*"
+
 <br>
 </details>
 
