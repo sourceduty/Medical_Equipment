@@ -161,6 +161,10 @@ The dynamic support feet are particularly innovative. Each foot is equipped with
 
 Overall, this walking cane with dynamic support feet represents a significant advancement in mobility aids. It combines ergonomic design, adjustability, and advanced stability features to offer a reliable and comfortable support solution. Whether used by the elderly, individuals with mobility issues, or those recovering from surgery, this cane can greatly enhance the user's confidence and independence. Its thoughtful design addresses many of the common challenges faced by cane users, making it a valuable tool for improving daily mobility and quality of life.
 
+#
+
+![Mechanical Stability Cane Concept](https://github.com/sourceduty/Medical_Equipment/assets/123030236/e866cd9a-ecfc-48d2-863c-912eaab30ce0)
+
 <br>
 </details>
 
