@@ -188,6 +188,24 @@ In conclusion, the Medical Glove Dispenser concept machine is a sophisticated so
 <br>
 </details>
 
+<details><summary>Grassy Turf Floor Weight Scale</summary>
+<br>
+
+![Grassy Turf Floor Weight Scale](https://github.com/sourceduty/Medical_Equipment/assets/123030236/65c028a5-71d0-40a8-83e9-f218b9ff64a6)
+
+The artificial grassy turf floor weight scale concept design combines practicality with an aesthetic that brings a touch of nature into everyday life. The scale is covered with a layer of artificial grass, creating an intriguing visual contrast between the modern technology of the scale and the natural, green appearance of the grass. This design choice not only makes the scale an interesting decor piece but also adds a unique tactile experience for the user, as they step onto the soft, grassy surface.
+
+Functionality is not sacrificed for style in this design. The weight scale still provides accurate measurements, displayed on a classic analog dial. The dial is positioned centrally at the top of the scale, with clear markings for easy readability. The artificial grass does not interfere with the functionality of the scale but instead enhances the user experience by providing a comfortable and slightly cushioned surface, which can be particularly appealing in the morning or for those who prefer to weigh themselves barefoot.
+
+This design also reflects a growing trend in integrating natural elements into everyday objects to promote well-being and relaxation. By incorporating artificial grass, the scale aims to evoke a sense of calm and tranquility, often associated with outdoor environments. This can be particularly beneficial in a bathroom setting, where the user may start or end their day, providing a small moment of serenity amidst the daily routine.
+
+Moreover, the artificial grassy turf floor weight scale is a conversation starter, blending form and function in a way that challenges traditional design norms. It appeals to those who appreciate innovative and unconventional home accessories. The design suggests a playful yet thoughtful approach to product design, where everyday items are reimagined to enhance the living space's overall ambiance and user experience.
+
+Finally, the durability of the artificial grass ensures that the scale remains attractive and functional over time. Unlike natural grass, which requires maintenance and can deteriorate, artificial turf is resilient and easy to clean. This makes the scale a practical choice for those who want to enjoy the aesthetic benefits of greenery without the upkeep. The combination of robust materials and thoughtful design makes this weight scale a unique and lasting addition to any home.
+
+<br>
+</details>
+
 #
 ### Notes
 
