@@ -297,7 +297,7 @@ Overall, this emergency first aid kit case is a well-engineered solution for ens
 <details><summary>Water-Cooled Neck Fan</summary>
 <br>
 
-![Water-Cooled Neck Fan](https://github.com/sourceduty/Medical_Equipment/assets/123030236/5c62a24a-f9e6-449f-8b8e-0bbc9dfa6f87)
+![Water-Cooled Neck Fan](https://github.com/sourceduty/Medical_Equipment/assets/123030236/13ad79e6-e598-4b37-b583-b33f04e686bb)
 
 This concept Water-Cooled Neck Fan is an innovative wearable device designed to provide users with a convenient and efficient way to stay cool, particularly during hot weather or intense physical activity. This concept combines the functionality of a neck fan with a water-cooling system, making it more effective in reducing body temperature compared to traditional fans. The device is ergonomically shaped to fit comfortably around the neck, with flexible, cushioned arms that ensure a secure fit without causing discomfort during prolonged use.
 
