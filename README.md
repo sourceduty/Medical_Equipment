@@ -294,6 +294,21 @@ Overall, this emergency first aid kit case is a well-engineered solution for ens
 
 <br>
 </details>
+<details><summary>Water-Cooled Neck Fan</summary>
+<br>
+
+![Water-Cooled Neck Fan](https://github.com/sourceduty/Medical_Equipment/assets/123030236/5c62a24a-f9e6-449f-8b8e-0bbc9dfa6f87)
+
+This concept Water-Cooled Neck Fan is an innovative wearable device designed to provide users with a convenient and efficient way to stay cool, particularly during hot weather or intense physical activity. This concept combines the functionality of a neck fan with a water-cooling system, making it more effective in reducing body temperature compared to traditional fans. The device is ergonomically shaped to fit comfortably around the neck, with flexible, cushioned arms that ensure a secure fit without causing discomfort during prolonged use.
+
+At the core of the Water-Cooled Neck Fan's design is its integrated water-cooling system. This system includes a detachable water bottle that connects to the neck fan via a tube, allowing cool water to circulate through the device. The water bottle can be easily refilled and reattached, ensuring continuous cooling. As the water moves through the fan, it absorbs heat from the user's neck and shoulders, providing a refreshing and soothing effect. This feature is particularly beneficial for outdoor activities, exercise, and even for individuals who suffer from heat sensitivity.
+
+The neck fan component of the device features dual fans with multiple speed settings, allowing users to adjust the airflow according to their personal comfort. The fans are powered by a rechargeable battery, which provides several hours of operation on a single charge. The controls are conveniently located on the sides of the device, making it easy to operate without removing the fan. The lightweight and portable design ensures that the Water-Cooled Neck Fan can be used in various settings, from commuting to outdoor sports events.
+
+In addition to its practical cooling functions, the Water-Cooled Neck Fan also emphasizes safety and user convenience. The materials used in the construction are hypoallergenic and skin-friendly, reducing the risk of irritation. The device's design includes safety features such as secure seals to prevent water leakage and overheating protection for the fan motors. The combination of water cooling and adjustable airflow ensures a customizable cooling experience, making this device an essential gadget for anyone looking to beat the heat comfortably and effectively.
+
+<br>
+</details>
 
 #
 ### Notes
