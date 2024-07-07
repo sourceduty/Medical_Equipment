@@ -143,6 +143,14 @@ Incorporating advanced technology, the wheelchair's wheels appear to be equipped
 
 Overall, this modern wheelchair design represents a significant step forward in mobility aid technology. It combines cutting-edge materials and innovative design with user-centric features to create a product that enhances the quality of life for its users. By focusing on both functionality and aesthetics, it challenges traditional perceptions of wheelchairs, positioning them as not only medical devices but also as products of thoughtful engineering and design. This conceptual model serves as an exciting glimpse into the future of mobility solutions, promising greater independence and ease of use for individuals with mobility challenges.
 
+#
+
+![Swivel Caster](https://github.com/sourceduty/Medical_Equipment/assets/123030236/9dcf1a91-ab08-4ffc-a3f4-c3d133361f85)
+
+#
+
+> Alex: "*Sphere wheels save space because they aren't offset from the axle mount and they don't swivel.*"
+
 <br>
 </details>
 
