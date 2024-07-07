@@ -338,6 +338,23 @@ In conclusion, the conceptual Exercise Wheel represents a forward-thinking evolu
 
 <br>
 </details>
+<details><summary>Wrist Mounted Reach Extender</summary>
+<br>
+
+![Wrist Mounted Reach Extender](https://github.com/sourceduty/Medical_Equipment/assets/123030236/20af0d82-42a1-49c6-871b-32a1d37724bb)
+
+The Wrist Mounted Reach Extender is a groundbreaking assistive device designed to enhance the range of motion and capability for individuals with limited mobility or those requiring extended reach. The concept merges ergonomic principles with cutting-edge technology to provide a seamless user experience. The primary structure comprises a telescopic arm with a claw-like end effector, which can be controlled via a handheld remote. This setup allows users to effortlessly extend their reach, grasp objects from a distance, and perform tasks that would otherwise be difficult or impossible.
+
+One of the standout features of this design is its focus on user comfort and adaptability. The arm attachment integrates securely onto the forearm using adjustable straps that distribute weight evenly and minimize strain. The materials used in the construction are lightweight yet durable, ensuring that the device can be worn for extended periods without causing discomfort. Additionally, the claw mechanism at the end is designed to be versatile, capable of gripping a variety of objects securely, from small, delicate items to larger, more robust ones.
+
+The control system is another significant aspect of the Wrist Mounted Reach Extender. The remote control is ergonomically designed to fit comfortably in the user's hand, with intuitive button placement that allows for precise manipulation of the telescopic arm and claw. This remote can manage the extension length, the opening and closing of the claw, and the rotation of the arm, providing full control over the device's movements. This level of control ensures that users can perform complex tasks with minimal effort and maximum efficiency.
+
+Safety and ease of use are paramount in the design of the Wrist Mounted Reach Extender. The device includes several safety features, such as automated retraction if excessive force is detected, to prevent injury or damage. The claw is equipped with soft, non-slip pads to ensure a secure grip without harming the objects being handled. Furthermore, the entire system is designed to be intuitive, with straightforward setup and operation, making it accessible to users of all ages and technical proficiencies.
+
+Overall, the Wrist Mounted Reach Extender represents a significant advancement in assistive technology. By combining ergonomic design, advanced control systems, and robust safety features, it provides a powerful tool for individuals seeking to enhance their independence and perform daily tasks with greater ease. This concept not only improves the quality of life for its users but also highlights the potential for innovative solutions in the field of assistive devices, paving the way for future developments and improvements.
+
+<br>
+</details>
 
 #
 ### Notes
