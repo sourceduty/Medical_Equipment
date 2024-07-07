@@ -332,6 +332,9 @@ From a technological perspective, this Exercise Wheel could integrate smart feat
 
 In conclusion, the conceptual Exercise Wheel represents a forward-thinking evolution in exercise equipment design. It combines aesthetic appeal with practical functionality, creating an engaging and efficient workout experience. Its innovative structure challenges the traditional treadmill model, offering users a fresh, dynamic approach to fitness. By integrating modern technology and ensuring a user-friendly design, the Exercise Wheel has the potential to become a staple in both commercial and home gym settings, inspiring users to pursue their fitness goals with renewed enthusiasm and enjoyment.
 
+#
+
+![Buster Keaton](https://github.com/sourceduty/Medical_Equipment/assets/123030236/3b50cc16-be72-4a80-a9c8-a5aa2fa97e79)
 
 <br>
 </details>
