@@ -389,6 +389,10 @@ From a practical standpoint, these bandage strips can significantly reduce medic
 
 Overall, the Stretchy Adhesive Bandage Strips represent a significant advancement in wound care technology. By providing a single solution for various wound sizes, these bandages offer convenience, efficiency, and enhanced protection. Their ability to stretch and then shrink back to size ensures they remain secure and comfortable, addressing common issues with traditional bandages. This concept could revolutionize the way we approach wound care, making it more adaptable and user-friendly.
 
+#
+
+![BAND-AGE](https://github.com/sourceduty/Medical_Equipment/assets/123030236/9732d07f-fe68-4153-af5d-77ae2d74765b)
+
 <br>
 </details>
 
@@ -447,10 +451,6 @@ Hair growth is primarily determined by genetics and hormonal factors, not by ext
 Moreover, when hair regrows after being shaved, it often appears darker and thicker because the hair at the surface has not yet been exposed to environmental factors that can lighten and thin it over time. Additionally, the contrast between newly shaved hair and previously shaved skin can create the illusion of thicker hair. However, under a microscope, it is clear that the structure and thickness of the hair shaft have not changed.
 
 In conclusion, the idea that hair becomes thicker after cutting or shaving is a common misconception. The perceived changes are due to the bluntness of the cut hair and the initial regrowth phase, not actual changes in the hair's growth or structure. Understanding the biology of hair growth can help dispel this myth and provide a clearer picture of how hair maintenance practices affect our appearance.
-
-#
-
-![BAND-AGE](https://github.com/sourceduty/Medical_Equipment/assets/123030236/9732d07f-fe68-4153-af5d-77ae2d74765b)
 
 
 <br>
