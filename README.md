@@ -448,6 +448,11 @@ Moreover, when hair regrows after being shaved, it often appears darker and thic
 
 In conclusion, the idea that hair becomes thicker after cutting or shaving is a common misconception. The perceived changes are due to the bluntness of the cut hair and the initial regrowth phase, not actual changes in the hair's growth or structure. Understanding the biology of hair growth can help dispel this myth and provide a clearer picture of how hair maintenance practices affect our appearance.
 
+#
+
+![BAND-AGE](https://github.com/sourceduty/Medical_Equipment/assets/123030236/9732d07f-fe68-4153-af5d-77ae2d74765b)
+
+
 <br>
 </details>
 
