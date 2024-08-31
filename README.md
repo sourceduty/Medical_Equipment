@@ -480,6 +480,8 @@ In conclusion, the idea that hair becomes thicker after cutting or shaving is a 
 [Nanuk 904](https://github.com/sourceduty/Nanuk_904)
 <br>
 [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
+<br>
+[Health Informatics Simulator](https://github.com/sourceduty/Health_Informatics_Simulator/tree/main)
 
 #
 
