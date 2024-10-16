@@ -481,7 +481,9 @@ In conclusion, the idea that hair becomes thicker after cutting or shaving is a 
 <br>
 [Buster Keaton](https://github.com/sourceduty/Buster_Keaton)
 <br>
-[Health Informatics Simulator](https://github.com/sourceduty/Health_Informatics_Simulator/tree/main)
+[Health Informatics Simulator](https://github.com/sourceduty/Health_Informatics_Simulator)
+<br>
+[Emergency Survival Gear](https://github.com/sourceduty/Emergency_Survival_Gear)
 
 #
 
