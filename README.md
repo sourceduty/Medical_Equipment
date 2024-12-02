@@ -18,6 +18,8 @@ Recent examples of innovation include the use of telemedicine, which gained sign
 
 ### Personal and Commercial Medical Equipment Design
 
+![Hack](https://github.com/user-attachments/assets/9e610233-6654-4159-a743-984ff1d2ebf7)
+
 Medical equipment design for personal use often focuses on simplicity, ease of use, and portability. Personal medical devices, such as blood pressure monitors, glucometers, and portable oxygen concentrators, are typically designed for individuals to operate without professional assistance. These devices are compact, user-friendly, and come with clear instructions to ensure that users can manage their health effectively at home. For instance, modern glucometers feature digital displays and minimalistic designs to provide quick and accurate blood sugar readings. Personal medical equipment should emphasize user safety, ease of cleaning, and intuitive interfaces to cater to users who may not have medical training.
 
 In contrast, commercial medical equipment used in facilities, hospitals, and businesses is designed with robustness, durability, and advanced functionalities to meet the demands of professional healthcare environments. Equipment such as MRI machines, surgical tables, and ventilators are built to withstand heavy use and frequent sterilization processes. These devices are often more complex, requiring trained personnel to operate them effectively. For example, an MRI machine is a large, sophisticated piece of equipment that provides detailed imaging but requires specialized knowledge for operation and maintenance. Commercial medical equipment should prioritize precision, durability, and integration with other hospital systems to ensure seamless workflow in healthcare facilities.
